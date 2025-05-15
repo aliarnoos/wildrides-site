@@ -1,7 +1,7 @@
 window._config = {
     cognito: {
-        userPoolId: 'eu-west-2_40mUf7Cy3', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '1m23048752v5bff7im8ivg1fad', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolId: 'eu-west-2_fG6RxUCNt', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '7i42fpocrdjggfk5f2k74u6u7h', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'eu-west-2' // e.g. us-east-2
     },
     api: {
